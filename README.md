@@ -73,7 +73,7 @@ population biomass has recovered.
 
 <figure>
 <img
-src="/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts%20of%20Overfishing%20Past/README_files/figure-markdown_strict/influence%20of%20ghosts%20icon%20table.png"
+src="README_files/figure-markdown_strict/influence%20of%20ghosts%20icon%20table.png"
 alt="Scoring the ghosts of overfishing past, icon diagram" />
 <figcaption aria-hidden="true">Scoring the ghosts of overfishing past,
 icon diagram</figcaption>
@@ -81,7 +81,7 @@ icon diagram</figcaption>
 
 <figure>
 <img
-src="/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts%20of%20Overfishing%20Past/README_files/figure-markdown_strict/Ghost%20scores%20table.png"
+src="README_files/figure-markdown_strict/Ghost%20scores%20table.png"
 alt="Scoring the ghosts of overfishing past, table" />
 <figcaption aria-hidden="true">Scoring the ghosts of overfishing past,
 table</figcaption>
