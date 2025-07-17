@@ -26,8 +26,8 @@ We classified the ghosts by: their influence on rate of or potential for recover
 
 Our synthesis suggests that the ghosts of overfishing past affect recovery of collapsed stocks more than susceptibility to decline of stocks which have recovered from past overfishing (Table 1). The change in life history parameters that arises from truncated age and size structure of populations is the most important ghost influencing recovery and also the ghost with the least variation. Habitat destruction and fragmentation was considered the most important ghost affecting susceptibility of recovered populations to another collapse. The influence of emotional attachment to fisheries was the most variable, suggesting that its role in affecting fishery sustainability is not well known. The role of extrinsic human factors such as socio-economics are also not well understood in sustainability and susceptibility of exploited populations. What is clear is that there are potentially more ghosts that affect recovery of population biomass, many of which could occur simultaneously, than there are that linger after population biomass has recovered.
 
-![Scoring the ghosts of overfishing past, icon diagram](/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts of Overfishing Past/influence of ghosts icon table.png)
+![Scoring the ghosts of overfishing past, icon diagram](/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts of Overfishing Past/README_files/figure-markdown_strict/influence of ghosts icon table.png)
 
-![Scoring the ghosts of overfishing past, table](/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts of Overfishing Past/Ghost scores table.png)
+![Scoring the ghosts of overfishing past, table](/home/daniel/papers.and.projects/ghosts.overfishing.past/CJFAS.hutchings/Ghosts of Overfishing Past/README_files/figure-markdown_strict/Ghost scores table.png)
 
 
